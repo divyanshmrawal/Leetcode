@@ -1,4 +1,4 @@
--- QUESTION-->
+-- QUESTION->
 -- Table: Views
 
 -- +---------------+---------+
